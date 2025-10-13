@@ -1,0 +1,38 @@
+fix: 
+- panel score reste à zéro
+- slowdow apparait niveau 2
+- difficulté augmente trop vite
+
+
+
+
+
+To do:
+(low priority)
+- faire en sorte que les plateformes ne spawn pas trop loin les unes des autres 
+        (que tu puisses pas juste perdre à cause de la rng)
+        => but: pouvoir faire baisser la hauteur de saut du personnage
+- augmentation de niveau à l'infini?
+
+Affichage:
+- d'abord réussir à afficher une flèche ça serait bien
+- flèches qui clignotent avant le début du jeu
+- flèche vers le bas quand la vitesse augmente
+- game over screen
+
+Mouvement axel:
+- double saut (ou déplacement latéral) (double presse sur un bouton)
+- wall jump? (tombe moins vite qd sur le bord d'une plateforme, peut sauter en diagonale) (trop de boulot?)
+
+Objets à ramasser:
+- bonus utilisable avec espace ou instantanés
+        - rajouter un timer/condition pr que le bonus expire
+        - attributs dans axel
+        - ajouter espace dans KeyHappened
+        - modifier fonctions & attributs nécessaires
+- idées bonus: 
+        peut sauter + haut (timer)
+        plateforme instantanée (espace)
+        flotte/tombe moins rapidement (timer ou espace)
+        double saut temporaire/à usage unique? (espace pr déclencher, timer ou usage unique)
+- voir comment afficher le fait d'avoir plusieurs bonus différents en même temps
