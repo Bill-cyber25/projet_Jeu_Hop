@@ -28,13 +28,13 @@ Le jeu se termine lorsque :
 
 # Fonctionnalités
 
-Interface graphique développée avec Java Swing
+- Interface graphique développée avec Java Swing
 
-Déplacement du joueur par sauts entre les barres
+- Déplacement du joueur par sauts entre les barres
 
-Obstacles et bonus dynamiques
+- Obstacles et bonus dynamiques
 
-Système de score basé sur la distance parcourue
+- Système de score basé sur la distance parcourue
 
 # Utilisation
 
