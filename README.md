@@ -46,8 +46,8 @@ Système de score basé sur la distance parcourue
 
 # Éléments du jeu :
 
-Joueur : rouge
+- Joueur : rouge
 
-Obstacles : rouge (plus grands)
+- Obstacles : rouge (plus grands)
 
-Pick-ups : jaune et bleu
+- Pick-ups : jaune et bleu
