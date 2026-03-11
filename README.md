@@ -1,17 +1,53 @@
-Titre : Hop (Saut)
-# Description: 
-ceci un jeu de saut où l'utilisateur doit sauter sur des barres roulantes de taille aléatoire. Ce projet est codé en java avec la bibliothèque swing 
-# Fonctionnalités
-- une interface produite à par de SWING.
-- le joueur peut se deplacer en sautant d'une barre à une autre
-- les obstacles sur la routes peuvent reduire la vitesse du joueur
-- les picks up permettent de réduire la vitesse des barres
-# Utilisation:
-1) Lancer le fichier /scr/Hop.java
-2) Appuyer sur un boutton pour démarrer
-3) Les flêches du clavier servent de directions pour le joueur
-# structure du projet:
-/src contient tout Le code du projet.
-# Auteur
-Bilguissou DIALLO
+ ##Hop – Jeu de plateforme en Java (Swing)
+#Description
 
+Hop est un jeu de plateforme développé en Java avec la bibliothèque Swing.
+Le joueur doit sauter de barre en barre pour parcourir la plus grande distance possible.
+
+Les barres ont des tailles aléatoires et se déplacent horizontalement. La difficulté augmente progressivement car leur vitesse augmente au fur et à mesure de la progression du joueur.
+
+Le joueur peut se déplacer sur les barres grâce aux flèches du clavier.
+
+Mécaniques de jeu
+
+Les obstacles ralentissent la vitesse du joueur.
+
+Les pick-ups permettent de ralentir la vitesse des barres.
+
+Un pick-up cyan donne une vie supplémentaire.
+
+Le score correspond à la distance parcourue.
+
+Le jeu se termine lorsque :
+
+le joueur sort de la largeur des barres
+
+ou atteint le bas de la fenêtre.
+
+Le score final est alors affiché.
+
+##Fonctionnalités
+
+Interface graphique développée avec Java Swing
+
+Déplacement du joueur par sauts entre les barres
+
+Obstacles et bonus dynamiques
+
+Système de score basé sur la distance parcourue
+
+##Utilisation
+
+Lancer le fichier /src/Hop.java
+
+Appuyer sur un bouton pour démarrer la partie
+
+Utiliser les flèches du clavier pour déplacer le joueur
+
+##Éléments du jeu :
+
+Joueur : rouge
+
+Obstacles : rouge (plus grands)
+
+Pick-ups : jaune et bleu
