@@ -8,7 +8,7 @@ Les barres ont des tailles aléatoires et se déplacent horizontalement. La diff
 
 Le joueur peut se déplacer sur les barres grâce aux flèches du clavier.
 
-Mécaniques de jeu
+## Mécaniques de jeu
 
 Les obstacles ralentissent la vitesse du joueur.
 
@@ -20,11 +20,11 @@ Le score correspond à la distance parcourue.
 
 Le jeu se termine lorsque :
 
-le joueur sort de la largeur des barres
+- le joueur sort de la largeur des barres
 
-ou atteint le bas de la fenêtre.
+- ou atteint le bas de la fenêtre.
 
-Le score final est alors affiché.
+- Le score final est alors affiché.
 
 # Fonctionnalités
 
@@ -38,11 +38,11 @@ Système de score basé sur la distance parcourue
 
 # Utilisation
 
-Lancer le fichier /src/Hop.java
+- Lancer le fichier /src/Hop.java
 
-Appuyer sur un bouton pour démarrer la partie
+- Appuyer sur un bouton pour démarrer la partie
 
-Utiliser les flèches du clavier pour déplacer le joueur
+- Utiliser les flèches du clavier pour déplacer le joueur
 
 # Éléments du jeu :
 
