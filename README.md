@@ -1,5 +1,5 @@
- ##Hop – Jeu de plateforme en Java (Swing)
-#Description
+ **Hop – Jeu de plateforme en Java (Swing)**
+# Description
 
 Hop est un jeu de plateforme développé en Java avec la bibliothèque Swing.
 Le joueur doit sauter de barre en barre pour parcourir la plus grande distance possible.
@@ -26,7 +26,7 @@ ou atteint le bas de la fenêtre.
 
 Le score final est alors affiché.
 
-##Fonctionnalités
+# Fonctionnalités
 
 Interface graphique développée avec Java Swing
 
@@ -36,7 +36,7 @@ Obstacles et bonus dynamiques
 
 Système de score basé sur la distance parcourue
 
-##Utilisation
+# Utilisation
 
 Lancer le fichier /src/Hop.java
 
@@ -44,7 +44,7 @@ Appuyer sur un bouton pour démarrer la partie
 
 Utiliser les flèches du clavier pour déplacer le joueur
 
-##Éléments du jeu :
+# Éléments du jeu :
 
 Joueur : rouge
 
